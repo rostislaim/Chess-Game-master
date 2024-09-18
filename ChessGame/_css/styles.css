@@ -1,5 +1,5 @@
 .ui-draggable-dragging {
-    z-index: 10000; !important
+    z-index: 10000 !important;
 }
 
 .ui-draggable {
@@ -17,11 +17,11 @@ div[id*=cell-]{
     width: 65px;
 }
 div[id*=cell-black-]{
-    background-color:#a2703f ;
+    background-color:#444444 ;
 }
 
 div[id*=cell-white-]{
-    background-color:#f3cf93 ;
+    background-color:#ffdcdc ;
 
 }
 
