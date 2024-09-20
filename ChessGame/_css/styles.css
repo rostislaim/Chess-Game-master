@@ -17,11 +17,11 @@ div[id*=cell-]{
     width: 65px;
 }
 div[id*=cell-black-]{
-    background-color:#444444 ;
+    background-color:#f1e1b1 ;
 }
 
 div[id*=cell-white-]{
-    background-color:#ffdcdc ;
+    background-color:#ffffff ;
 
 }
 
